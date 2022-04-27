@@ -3,16 +3,12 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 ## Comandos Basicos Git
 
-### $> git init
-    Cria um repositorio vazio ou reinicia um existente no diretorio/pasta atual
+### git init
     
-### $> git clone
+### git clone
     
-    
-### $> git add
+### git add
 
+### git status
 
-### $> git status
-
-
-### $> 
+###  
