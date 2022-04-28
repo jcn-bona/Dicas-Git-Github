@@ -11,7 +11,6 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 - [git status](git-status.md) - exibe as condições do diretório de trabalho e da área de staging
  
-- [git commit](git-commit.md) - confirmando e salvando alterações
+- [git commit](git-commit.md) - confirma e salva as alterações feitas até o momento
 
-
-###  
+  
