@@ -5,7 +5,7 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 - [git init](git-init.md) - inicializa um novo repositório
     
-- [git clone](git-clone.md)
+- [git clone](git-clone.md) - copia o repositório remoto para um repositório local
     
 - [git add](git-add.md)
 
