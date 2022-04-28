@@ -25,11 +25,12 @@ No projeto local, crie uma branch:<br>
 git branch “Aqui vai o nome da branch”<br>
 Realize o checkout da nova branch:<br>
 git checkout “Aqui vai o nome da branch”<br>
-Adicione um ou mais arquivos;
-Salve todas as alterações;
-Prepara as mudanças realizadas no diretório local:
+Adicione um ou mais arquivos<br>
+Salve todas as alterações<br>
+Prepara as mudanças realizadas no diretório local<br>
 git add . “Aqui vai o nome da branch”
-Enviar as alterações locais para o servidor remoto:
+Enviar as alterações locais para o servidor remoto<br>
 git commit “Aqui vai o nome da branch”
+
 Com esse exemplo, foi possível utilizar os principais comandos do Git. Nos próximos tópicos, vamos aprender outras opções utilizadas para esse comando.
 
