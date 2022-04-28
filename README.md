@@ -22,4 +22,6 @@ O GitHub é um repositório remoto que guarda e gerencia os projetos que lhes s�
  
 Para que se use o www.github.com basta apenas criar uma conta no site e fazer algumas configurações.
 
+### Configurando o Git para operar com o GitHub
+
 
