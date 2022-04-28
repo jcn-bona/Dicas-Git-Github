@@ -1,6 +1,6 @@
 # git add 
 
-O comando git add pertence ao sistema de controle de versões chamado de Git. Esse comando realiza a inclusão ou modificação do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina local.
+Esse comando realiza a inclusão ou modificação do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina local.
 
 Dentre todos os comandos que pertencem ao Git, esse é o mais importante deles, afinal, é utilizado para sinalizar que houve interação no diretório local. Para entendermos melhor, se utilizarmos o comando git commit primeiro do que o comando git add, as alterações locais não refletirão no servidor remoto. Por isso, é importante entender a sequência correta dos comandos do Git.
 
