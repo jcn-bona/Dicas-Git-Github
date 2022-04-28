@@ -3,7 +3,7 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 ### Comandos Basicos Git
 
-- [git init](git-init.md) 
+- [git init](git-init.md) - inicializa um novo repositório
     
 - [git clone](git-clone.md)
     
