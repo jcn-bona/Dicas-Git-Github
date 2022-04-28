@@ -28,7 +28,7 @@ git checkout “Aqui vai o nome da branch”<br>
 Adicione um ou mais arquivos<br>
 Salve todas as alterações<br>
 Prepara as mudanças realizadas no diretório local<br>
-git add . “Aqui vai o nome da branch”
+git add . “Aqui vai o nome da branch”<br>
 Enviar as alterações locais para o servidor remoto<br>
 git commit “Aqui vai o nome da branch”
 
