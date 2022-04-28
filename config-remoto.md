@@ -11,7 +11,8 @@ No mesmo terminal executar:
 
 - No MacOS: pbcopy < ~/.ssh/id_ed25519.pub
  
-Adicionar chave no Github
+### Adicionar chave no Github
+
 Abra o Github e vá no ícone de perfil > Settings, no canto superior direito.
 Na barra lateral de configurações do usuário, clique em "SSH and GPG keys".
 Clique no botão "New SSH key"
