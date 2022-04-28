@@ -24,4 +24,4 @@ Para que se use o www.github.com basta apenas criar uma conta no site e fazer al
 
 ### Configurando o Git para operar com o GitHub
 
-- [git init](git-init.md) - Inicializa um novo repositório local
+- [SSH](git-ssh.md) - Configurando o SSH
