@@ -1,5 +1,4 @@
-# git add
-## Adiciona alterações no repositório
+# git add 
 
 O comando git add pertence ao sistema de controle de versões chamado de Git. Esse comando realiza a inclusão ou modificação do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina local.
 
