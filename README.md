@@ -7,7 +7,7 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
     
 - [git clone](git-clone.md) - copia o repositório remoto para um repositório local
     
-- [git add](git-add.md)
+- [git add](git-add.md) - realiza a inclusão/modificação do arquivo no diretório local, preparando pra ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina local.
 
 - [git status](git-status.md)
  
