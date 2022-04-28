@@ -15,7 +15,7 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 - [git push](git-push.md) - Envia para o servidor remoto as aualizações existentes no repositório local 
 
-### [GitHub](www.github.com)
+### [GitHub](github.com)
 
 O GitHub é um repositório remoto que guarda e gerencia os projetos que lhes são enviados, neste caso, enviados com o Git. Podendo ou não serem visiveis e utilizados por qualquer um que acesse o endereço do projeto. 
 
