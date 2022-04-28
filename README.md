@@ -26,4 +26,6 @@ Para que se use o www.github.com basta apenas criar uma conta no site e fazer al
 
 - [Gerando](gerando-ssh.md) - Gerando chaves 
 
-- [Configurando Chave no micro local](configurando-ssh.md) - Configurando a chave no micro local pelo terminal
+- [Configurando Chave na máquina local](config-local-ssh.md) - Configurando a chave na máquina local
+
+- [Configurando Chave no GitHub](config-remoto-ssh.md) - Configurando a chave no GitHub
