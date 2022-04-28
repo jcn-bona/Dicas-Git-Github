@@ -3,9 +3,14 @@
 Agora que já adicionamos a chave privada no ssh-agent, vamos copiar a chave pública que faz par com ela, para incluirmos no nosso github.
 
 No mesmo terminal executar:
-- No Windows: clip < ~/.ssh/id_ed25519.pub. (Automaticamente o conteúdo da sua chave pública será copiado para a área de transferência.)
-No Linux: cat ~/.ssh/id_ed25519.pub. (O conteúdo da chave pública aparecerá no terminal para ser selecionado e copiado.)
-MacOS: pbcopy < ~/.ssh/id_ed25519.pub
+- No Windows: clip < ~/.ssh/id_ed25519.pub
+  Automaticamente o conteúdo da sua chave pública será copiado para a área de transferência
+  
+- No Linux: cat ~/.ssh/id_ed25519.pub
+  - O conteúdo da chave pública aparecerá no terminal para ser selecionado e copiado
+
+- No MacOS: pbcopy < ~/.ssh/id_ed25519.pub
+- 
 Adicionar chave no Github
 Abra o Github e vá no ícone de perfil > Settings, no canto superior direito.
 Na barra lateral de configurações do usuário, clique em "SSH and GPG keys".
