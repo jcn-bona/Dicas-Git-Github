@@ -1,4 +1,4 @@
-### git clone 
+# git clone 
 
 Copia o repositório remoto para um repositório local.
 
