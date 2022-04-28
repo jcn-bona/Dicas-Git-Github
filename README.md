@@ -9,7 +9,7 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
     
 - [git add](git-add.md) - prepara o arquivo pra ser entregue ao servidor remoto
 
-- [git status](git-status.md)
+- [git status](git-status.md) - exibe as condições do diretório de trabalho e da área de staging
  
 - [git commit](git-commit.md) - confirmando e salvando alterações
 
