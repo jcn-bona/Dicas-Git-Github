@@ -13,4 +13,4 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
  
 - [git commit](git-commit.md) - confirma e salva as alterações feitas até o momento
 
-  
+- [git push](git-push.md) - confirma e salva as alterações feitas até o momento
