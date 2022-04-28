@@ -1,9 +1,9 @@
 # compartilhando-meu-progresso
 Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
-## Comandos Basicos Git
+### Comandos Basicos Git
 
-- [git init](git-init.md)
+- [git init](git-init.md) 
     
 - [git clone](git-clone.md)
     
