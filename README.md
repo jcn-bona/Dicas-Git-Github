@@ -24,6 +24,6 @@ Para que se use o www.github.com basta apenas criar uma conta no site e fazer al
 
 ### Configurando o Git para operar com o GitHub
 
-- [SSH](ssh-gerando.md) - Gerando chaves SSH
+- [SSH](gerando-ssh.md) - Gerando chaves SSH
 
 - [SSH](ssh-gerando.md) - Gerando chaves SSH
