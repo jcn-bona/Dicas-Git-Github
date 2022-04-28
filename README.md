@@ -11,7 +11,7 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 - [git status](git-status.md)
  
-- [git commit](git-commit.md) - confirmando e salvando alterações!
+- [git commit](git-commit.md) - confirmando e salvando alterações
 
 
 ###  
