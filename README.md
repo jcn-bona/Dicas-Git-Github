@@ -17,3 +17,4 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 ### GitHub
 
+O GitHub é um repositório remoto que guarda e gerencia os projetos que lhes são enviados, neste caso, enviados com o Git. Podendo ou não serem visiveis e utilizados por qualquer um que acesse o endereço do projeto. 
