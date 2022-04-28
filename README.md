@@ -5,10 +5,10 @@ Compartilhando meu avanço de aprendizado na DIO sobre Git / Github
 
 - [git init](git-init.md)
     
-- git clone
+- [git clone](git-clone.md)
     
-- git add
+- [git add](git-add.md)
 
-- git status
+- [git status](git-status.md)
 
 ###  
