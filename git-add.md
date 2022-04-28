@@ -13,7 +13,6 @@ O comando git add pode ser utilizado a qualquer momento durante o processo de al
 Os recursos oferecidos pelo Git não se limitam apenas aos comandos de transição de mudanças nos arquivos. Um dos principais diferenciais dessa ferramenta é o recurso chamado staging area (área temporária).
 
 O recurso staging area é um espaço temporário criado a partir da primeira inclusão ou alteração realizada no diretório local do projeto. Com isso, é possível controlar todas as interações realizadas, permitindo reverter qualquer ação indesejada a qualquer momento.
-
 Além disso, a staging area permite que seja realizado vários commits a partir dela.
 
 #### Vamos explicar como isso funciona:
