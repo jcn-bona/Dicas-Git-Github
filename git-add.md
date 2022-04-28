@@ -20,7 +20,7 @@ Vamos explicar como isso funciona: Nessa área temporária estarão todas as alt
 Como usar o Git add?
 Usar o comando git add é muito simples e prático. O exemplo a seguir pode ser executado diretamente no Git Bash ou em uma IDE de sua preferência:
 
-No projeto local, crie uma branch:    
+No projeto local, crie uma branch:
 git branch “Aqui vai o nome da branch”
 Realize o checkout da nova branch:
 git checkout “Aqui vai o nome da branch”
