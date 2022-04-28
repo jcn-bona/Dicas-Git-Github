@@ -6,7 +6,7 @@ Dentre todos os comandos que pertencem ao Git, esse é o mais importante deles, 
 
 O comando git add mantém o histórico de todas as ações realizadas no código, permitindo que, se algum problema ocorrer na aplicação, o comando de desfazer alteração possa ser acionado.
 
-#### Dica importante:
+#### Dica importante
 O comando git add pode ser utilizado a qualquer momento durante o processo de alteração do arquivo, porém, a melhor prática é realizar todas as alterações e quando tudo estiver pronto, utilizamos esse comando. Caso queira verificar quais serão as alterações que serão reproduzidas no servidor remoto, utilize o comando git status.
 
 #### Área de staging Git
@@ -15,10 +15,10 @@ Os recursos oferecidos pelo Git não se limitam apenas aos comandos de transiç�
 O recurso staging area é um espaço temporário criado a partir da primeira inclusão ou alteração realizada no diretório local do projeto. Com isso, é possível controlar todas as interações realizadas, permitindo reverter qualquer ação indesejada a qualquer momento.
 Além disso, a staging area permite que seja realizado vários commits a partir dela.
 
-#### Vamos explicar como isso funciona:
+#### Como isso funciona
 Nessa área temporária estarão todas as alterações realizadas no projeto. Você pode escolher um ou mais arquivos para realizar o comando git adde, em seguida, o comando git commit, permitindo maior flexibilidade e agilidade no processo de sincronização de códigos entre os servidores local e remoto.
 
-#### Como usar o Git add?
+#### Como usar o Git add
 Usar o comando git add é muito simples e prático. O exemplo a seguir pode ser executado diretamente no Git Bash ou em uma IDE de sua preferência:
 
 No projeto local, crie uma branch:<br>
