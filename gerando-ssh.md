@@ -1,5 +1,5 @@
 
-### Gerar uma nova chave
+### Gerando um novo par de chaves
 
 Caso não exista nenhum par de chaves existentes, precisamos gerar um novo par de chaves. Falamos "par de chaves" porque assim que gerarmos uma chave, serão criados dois arquivos, um público (.pub) e um privado. O conteúdo do arquivo público é o que futuramente colocaremos no github para fazer a conexão.
 
